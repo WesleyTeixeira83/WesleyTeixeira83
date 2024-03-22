@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Wesley Gabriel Teixeira de Aragão! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **WesleyTeixeira83/WesleyTeixeira83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/
